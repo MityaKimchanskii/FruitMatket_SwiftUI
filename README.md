@@ -3,6 +3,12 @@
 * [+] SwiftUI
 * [+] List
 * [+] Animation
+* [+] Onboarding Screen with PageTabView
+* [+] Data model and fetch data 
+* [+] AppStorage
+* [+] LinkView
+* [+] GoupBox View
+* [+] DisclosureView
 
 Here's a walkthrough of implemented user stories:
 
